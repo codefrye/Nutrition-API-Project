@@ -1,0 +1,12 @@
+an application that help you track your diet in macro nutrients by logging in your food items youre consumeing
+
+
+
+endpoints :
+register ----
+login----all the endpoints below cvan only be accessed with a  jwt token
+search food by name-----
+track foods for me ------
+show my tracked foods-----
+
+

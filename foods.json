@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Chicken Curry",
+        "calories": 110,
+        "protein": 15,
+        "carbs": 5,
+        "fat": 4,
+        "fiber": 1
+    },
+    {
+        "name": "Paneer Tikka",
+        "calories": 200,
+        "protein": 10,
+        "carbs": 8,
+        "fat": 15,
+        "fiber": 2
+    },
+    {
+        "name": "Dal Tadka",
+        "calories": 80,
+        "protein": 7,
+        "carbs": 12,
+        "fat": 3,
+        "fiber": 4
+    },
+    {
+        "name": "Aloo Gobi",
+        "calories": 120,
+        "protein": 2,
+        "carbs": 20,
+        "fat": 6,
+        "fiber": 5
+    },
+    {
+        "name": "Palak Paneer",
+        "calories": 150,
+        "protein": 12,
+        "carbs": 10,
+        "fat": 8,
+        "fiber": 3
+    },
+    {
+        "name": "Chana Masala",
+        "calories": 90,
+        "protein": 6,
+        "carbs": 15,
+        "fat": 2,
+        "fiber": 6
+    },
+    {
+        "name": "Biryani",
+        "calories": 250,
+        "protein": 8,
+        "carbs": 30,
+        "fat": 12,
+        "fiber": 1
+    },
+    {
+        "name": "Samosa",
+        "calories": 150,
+        "protein": 4,
+        "carbs": 20,
+        "fat": 10,
+        "fiber": 2
+    },
+    {
+        "name": "Butter Chicken",
+        "calories": 280,
+        "protein": 20,
+        "carbs": 15,
+        "fat": 18,
+        "fiber": 1
+    },
+    {
+        "name": "Masala Dosa",
+        "calories": 160,
+        "protein": 5,
+        "carbs": 25,
+        "fat": 7,
+        "fiber": 3
+    },
+    {
+        "name": "Rajma Chawal",
+        "calories": 200,
+        "protein": 9,
+        "carbs": 30,
+        "fat": 5,
+        "fiber": 8
+    },
+    {
+        "name": "Pav Bhaji",
+        "calories": 180,
+        "protein": 6,
+        "carbs": 25,
+        "fat": 8,
+        "fiber": 4
+    },
+    {
+        "name": "Chicken Biryani",
+        "calories": 300,
+        "protein": 15,
+        "carbs": 35,
+        "fat": 14,
+        "fiber": 2
+    },
+    {
+        "name": "Aloo Paratha",
+        "calories": 220,
+        "protein": 7,
+        "carbs": 30,
+        "fat": 10,
+        "fiber": 3
+    },
+    {
+        "name": "Fish Curry",
+        "calories": 120,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 6,
+        "fiber": 1
+    },
+    {
+        "name": "Dhokla",
+        "calories": 70,
+        "protein": 3,
+        "carbs": 15,
+        "fat": 1,
+        "fiber": 2
+    },
+    {
+        "name": "Mutton Rogan Josh",
+        "calories": 260,
+        "protein": 22,
+        "carbs": 12,
+        "fat": 16,
+        "fiber": 1
+    },
+    {
+        "name": "Tandoori Roti",
+        "calories": 120,
+        "protein": 4,
+        "carbs": 20,
+        "fat": 2,
+        "fiber": 3
+    },
+    {
+        "name": "Vegetable Biryani",
+        "calories": 230,
+        "protein": 10,
+        "carbs": 28,
+        "fat": 10,
+        "fiber": 4
+    },
+    {
+        "name": "Kadai Paneer",
+        "calories": 180,
+        "protein": 13,
+        "carbs": 10,
+        "fat": 12,
+        "fiber": 2
+    }
+]
